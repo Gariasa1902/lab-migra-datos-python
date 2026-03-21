@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.csv
+*.json*.deb
+*.deb
+venv/
+__pycache__/
